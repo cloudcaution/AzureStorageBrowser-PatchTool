@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 90332057
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cfdc46944b857c758a4ace7f407b098a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2319aefd698ee7356bfa435b6b167b0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 64e20aa1b28335f42b511c220a7cd6f6, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f9dd422ce2b11a4c9a81878197a8e37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cf95d252969cad2418929e27c3914daa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b42e533f04c0c84abf7f8b06d443f24, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63c9f444ad30c284fb64a3e1eaab122f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 093b94e6c3eb7654192171512461f0f2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f02c2f38fcec73648bb9666ecb2eba34, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f44ba5994e39ce49afa585b8c26c435, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af4fee7bae39c4f4fa5a93a9c1d522a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72a6929b51344334c9a48330551fc2c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dca975ebf426c304ca7e6174ee4780be, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52debd3ca2199cf4cb2ec708712bc2e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f11c4d6c44963314e82b99f76312ee70, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefeb/AzureBlobExplorer.prefab
+Dependencies: []

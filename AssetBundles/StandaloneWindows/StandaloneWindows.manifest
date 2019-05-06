@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1491586603
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: azurestoragemanager
+      Dependencies: {}
+    Info_1:
+      Name: azureblobexplorer
+      Dependencies: {}

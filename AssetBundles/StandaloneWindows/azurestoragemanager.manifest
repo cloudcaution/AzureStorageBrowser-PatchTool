@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1279041522
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e92d5f73e2444c05e270dda7d6e6542a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb3a25065e9acbd80b51a740b0cd249a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e874abfcadd1593419838cf21ec21d80, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefeb/AzureStorageManager.prefab
+Dependencies: []

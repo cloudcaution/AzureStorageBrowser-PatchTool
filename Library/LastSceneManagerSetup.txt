@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/BlobStorage.unity
+  isLoaded: 1
+  isActive: 1
